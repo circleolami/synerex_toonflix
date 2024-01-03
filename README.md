@@ -1,4 +1,4 @@
-# toonflix
+# synerex_wallet
 
 Make UI with Flutter
 
